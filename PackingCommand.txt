@@ -1,0 +1,2 @@
+nuitka --onefile --enable-plugin=pyside6 --windows-console-mode=disable --windows-icon-from-ico=icon/icon.ico run.py
+pyinstaller.exe --onefile --noconsole --windowed --icon=icon/icon.ico --name MRDViewer run.py
