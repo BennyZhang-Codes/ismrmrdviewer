@@ -4,3 +4,5 @@
 .DS_Store
 .vscode/
 .venv_build/
+build/
+dist/
